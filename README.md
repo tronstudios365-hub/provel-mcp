@@ -14,7 +14,7 @@ This repository is the public listing for the hosted Provel MCP server. The serv
 
 - **0x website audits.** 43 checks per page across 11 areas: speed, SEO, accessibility, mobile, security, vulnerabilities, links, trust, interactivity, AI readiness, and domain and email. Includes PHP2Shell (CVE-2026-109618 / CVE-2026-109619) exposure and outdated WordPress, jQuery, Bootstrap or AngularJS. Every audit includes an AI design review.
   - **0x Quick:** free, homepage, 2 a day.
-  - **0x Deep:** $39, up to 20 pages, a design review of every page, 4 extra security checks (exposed files, SSL certificate, security.txt and script integrity) and ready-to-paste fixes. Paid on a Provel payment page before it starts.
+  - **0x Deep:** $99, up to 20 pages, a design review of every page, 4 extra security checks (exposed files, SSL certificate, security.txt and script integrity) and ready-to-paste fixes. Paid on a Provel payment page before it starts.
 - **Free quotes** for design and engineering work, from a design critique to a full product build.
 - **Expert audits** by Provel's senior team.
 - **NDAs** before you share anything confidential.
@@ -75,7 +75,7 @@ codex mcp login provel
 | :- | :- |
 | `get_service` | Provel's services, workflow and prices. Start here. |
 | `get_account` | New replies from Provel, open requests, recent audits and balance. |
-| `run_audit` | Run a 0x Quick (free) or 0x Deep ($39) website audit. |
+| `run_audit` | Run a 0x Quick (free) or 0x Deep ($99) website audit. |
 | `get_audit` | Audit results, the report link and a fix guide with code for each issue. |
 | `quote_request` | Get a free price for a brief. |
 | `ask_for_quote` | Send a brief to Provel for a confirmed quote. Free, nothing charged. |
