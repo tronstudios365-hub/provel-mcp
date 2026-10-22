@@ -1,0 +1,11 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "co.provel/provel",
+  "title": "Provel",
+  "description": "Senior design & engineering studio for AI and Web3. Free quotes, website audits and NDAs.",
+  "version": "1.2.0",
+  "websiteUrl": "https://www.provel.co/mcp",
+  "remotes": [
+    { "type": "streamable-http", "url": "https://www.provel.co/api/mcp" }
+  ]
+}
